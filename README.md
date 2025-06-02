@@ -80,4 +80,4 @@ Instead of making individual TCP connections for each HTTP request, all browser 
 
 ```bash
 git clone https://github.com/gokulmelath/proxy.git
-cd cruise-proxy-system
+cd proxy
